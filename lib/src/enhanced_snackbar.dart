@@ -47,6 +47,7 @@ class EnhancedSnackBar extends SnackBar {
           shape: shape,
           action: action,
           duration: duration,
+          padding: padding,
         );
 
   /// Display the snackbar on the nearest [Scaffold].
